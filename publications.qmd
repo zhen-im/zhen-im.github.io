@@ -1,0 +1,49 @@
+---
+title: "Research and Publications"
+page-layout: full
+---
+
+
+
+*You can find my full list of work [here](https://scholar.google.com/citations?user=ouNIWlcAAAAJ&hl=en)*
+
+<br>
+<br>
+
+::: {.hero-text}
+[Selected works:]{style="font-size: 1.25em;"}
+:::
+
+## On social standing
+Kwan, J. Y., & Im, Z. J. (2025). Singaporeans’ subjective social mobility, personal and societal optimism, and political opinions: An exploratory study. Asian Journal of Social Science, 53(1), 100184.
+
+Im, Z. J., Wass, H., Kantola, A., & Kauppinen, T. M. (2023). With status decline in sight, voters turn radical right: How do experience and expectation of status decline shape electoral behaviour? European Political Science Review, 15(1), 116–135.
+
+Im, Z. J., Mayer, N., Palier, B., & Rovny, J. (2019). The “losers of automation”: A reservoir of votes for the radical right? Research & Politics, 6(1), 2053168018822395.
+
+
+## On fairness
+Citi, M., & Im, Z. J. (2026). Big dilemmas, little time: intergenerational climate justice and public support for deep decarbonisation. Environmental Politics, 1–23.
+
+Im, Z. J. (2024). Paying the piper for the Green Transition? Perceptions of unfairness from regional employment declines in carbon-polluting industrial sectors. Journal of European Public Policy, 31(6), 1620–1646.
+
+Im, Z. J., Wass, H., Kantola, A., & Hiilamo, H. (2024). Fairness predispositions towards the rich and the poor and support for redistribution in the Nordic welfare state. Electoral Studies, 90, 102823. 
+
+
+
+## On technological change
+Im, Z. J. (2026). Technological change and support for redistributive politics. Journal of European Public Policy, 33(4), 1046–1071. 
+
+Im, Z. J. (2021). Automation risk and support for welfare policies: How does the threat of unemployment affect demanding active labour market policy support? Journal of International and Comparative Social Policy, 37(1), 76–91. 
+
+Kaihovaara, A., & Im, Z. J. (2020). Jobs at risk? Task routineness, offshorability, and attitudes toward immigration. European Political Science Review, 12(3), 327–345. 
+
+
+
+## On public policies
+Im, Z. J., de la Porte, C., Heins, E., Prontera, A., & Szelewa, D. (2025). A green but also just transition? Variations in social and industrial policy responses to industrial decarbonisation in EU member states. Global Social Policy, 25(1), 64–85. 
+
+de la Porte, C., Im, Z. J., Pircher, B., & Szelewa, D. (2023). The EU’s work-life balance directive: Institutional change of father-specific leave across member states. Social Policy & Administration, 57(4), 549–563. 
+
+Im, Z. J., & Shin, Y.-K. (2022). Who gets labour market training? Access biases of social investment in Finland. Journal of European Social Policy, 32(1), 3–18. 
+

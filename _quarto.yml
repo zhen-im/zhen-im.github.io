@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zhen Im"
+  site-url: "https://zhen-im.github.io"
+  description: "Academic website of Zhen Im, Associate Professor at LUT University"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: bank
+        href: "https://www.lut.fi/en/profiles/zhen-im"
+        aria-label: University profile
+      - icon: envelope
+        href: "mailto:Zhen.Im@lut.fi"
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=ouNIWlcAAAAJ&hl=en"
+        aria-label: Google Scholar
+  page-footer:
+    left: "© 2026 Zhen Im"
+    right: "Built with Quarto and hosted on GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

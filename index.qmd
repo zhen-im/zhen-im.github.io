@@ -1,0 +1,34 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-text}
+# Zhen Im
+
+## Associate Professor · LUT University
+
+Welcome!
+
+I am an Associate Professor at the Department of Social Sciences at Lappeenranta-Lahti University of Technology. I am also a Research Council of Finland Academy Research Fellow (2026-2030). Previously, I was a postdoctoral researcher at Lappeenranta-Lahti University of Technlogy and at Copenhagen Business School. I received my PhD in Social Sciences from the University of Helsinki.
+
+My research examines the nexus between work and politics through the lenses of perceived social standing and fairness. I analyse how technological change and the green transition reshape this dynamic, and how public policies buffer its political consequences.
+
+
+
+[Research](publications.qmd){.btn .btn-primary} [Curriculum vitae](cv.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.hero-photo}
+![](images/profile.jpg){fig-alt="Portrait of Zhen Im"}
+:::
+:::
+
+## Current research
+
+My current research project (GREENSHUFFLE) explores whether and how the green transition shapes citizens' views of the social standing of different jobs, the extent to which such changes are contested, and the political consequences of such contestation. This project, which runs from 2026 to 2030, is funded by the Research Council of Finland (Academy Research Fellowship).
+
+I am also leading a work package within the research consortium (Just-In-Clime) which explores variations in how justice is discussed by experts and citizens in the context of the just transition in high, middle and low income countries. This research consortium, which runs from 2026 to 2030, is funded by Horizon Europe (HORIZON-CL5-2025-06).
+
+
